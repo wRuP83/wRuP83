@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @wRuP83
-- 👀 I’m interested in API/Mobile/Web Testing,
-- 🌱 I’m currently learning Postman
-- 💞️ I’m looking to collaborate on Testing Challenges, Testing Groups etc.
-- 📫 How to reach me: My LinkedIn Profile - https://www.linkedin.com/in/roee-elkabez-a11005190
+- 👋 Hi, I’m @wRuP83 (Roee Elkabez is my real name).
+- I’m a Mid level Manual QA with significant experience in CRM & Core systems testing;
+- As well as FE&BE, Rest API, Mobile&Web Testing, using GraphQL&SQL.
+- This is my public GitHub page
+------------------------------------------------------------------------------------------------------------------
+- 📫 How to reach me: My LinkedIn Profile - https://www.linkedin.com/in/roee-elkabez-qa
 - 📫 Email Address: roee.elkabez@gmail.com
 
 <!---
